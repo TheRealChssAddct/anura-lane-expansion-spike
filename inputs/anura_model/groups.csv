@@ -1,0 +1,8 @@
+group_status,group_name,group_type,group_class,group_member,group_function
+,WHS,location,,WHS_East,group
+,WHS,location,,WHS_West,group
+,all_products,product,,Shorts,group
+,all_products,product,,Cloth,group
+,MFG_WHS,location,,MFG,group
+,MFG_WHS,location,,WHS_East,group
+,MFG_WHS,location,,WHS_West,group

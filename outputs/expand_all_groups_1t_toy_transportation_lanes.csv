@@ -1,0 +1,13 @@
+origin_name,destination_name,product_name,transport_mode,period_name,variable_transport_cost,transport_time,distance
+SUP_1,DC_1,P_1,TL,Period_1,1,0,36.4625251524925
+SUP_1,DC_1,P_2,TL,Period_1,1,0,36.4625251524925
+SUP_1,DC_2,P_1,TL,Period_1,100,22,66
+SUP_1,DC_2,P_2,TL,Period_1,100,22,66
+SUP_2,DC_1,P_1,TL,Period_1,1,0,87.2425555220327
+SUP_2,DC_1,P_2,TL,Period_1,1,0,87.2425555220327
+SUP_2,DC_2,P_1,TL,Period_1,1,0,92.686519607763
+SUP_2,DC_2,P_2,TL,Period_1,1,0,92.686519607763
+DC_1,PROGRAM_FG,P_1,TL,Period_1,400,33,100
+DC_1,PROGRAM_FG,P_2,TL,Period_1,500,44,100
+DC_2,PROGRAM_FG,P_1,TL,Period_1,5000,0,6.85065086619704
+DC_2,PROGRAM_FG,P_2,TL,Period_1,5000,0,6.85065086619704

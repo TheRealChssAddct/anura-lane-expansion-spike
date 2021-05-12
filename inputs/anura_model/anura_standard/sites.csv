@@ -1,0 +1,6 @@
+period_name,site_name,sites_type,sites_status,fixed_operating_cost,site_role
+Period_001,SUP_Vietnam,Existing,Include,0.0,facility
+Period_001,SUP_Domestic,Existing,Include,0.0,facility
+Period_001,MFG,Existing,Include,0.0,facility
+Period_001,WHS_West,Existing,Include,10000.0,facility
+Period_001,WHS_East,Existing,Include,10000.0,facility

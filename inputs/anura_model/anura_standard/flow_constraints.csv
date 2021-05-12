@@ -1,0 +1,2 @@
+source_name,destination_name,product_name,mode_name,period_name,flow_constraint_type,flow_constraint_value
+SUP_Domestic,MFG,Cloth,,Period_001,Min,14400.0

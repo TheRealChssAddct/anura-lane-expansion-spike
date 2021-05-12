@@ -1,0 +1,8 @@
+group_status,group_name,group_function,group_type,group_member
+,group_all_DCs,group,location,DC_1
+,group_all_DCs,group,location,DC_2
+,group_all_SUPPLIERS,group,location,SUP_1
+,group_all_SUPPLIERS,group,location,SUP_2
+,group_all_customers,group,location,PROGRAM_FG
+,group_all_products,group,product,P_1
+,group_all_products,group,product,P_2

@@ -1,0 +1,6 @@
+period_name,origin_name,destination_name,product_name,transport_mode,lane_status,mode_selection_rule,variable_transport_cost,variable_transport_cost_basis,transport_time,transport_time_basis,distance,distance_basis
+,group_all_SUPPLIERS,group_all_DCs,group_all_products,,Include,To Optimize,1,quantity-distance,,,,
+,SUP_1,DC_2,,,Include,To Optimize,100,quantity,22,,66,
+,group_all_DCs,PROGRAM_FG,group_all_products,,Include,To Optimize,5,quantity-distance,,,1000,
+,DC_1,PROGRAM_FG,,,,,400,quantity,33,,100,
+,DC_1,PROGRAM_FG,P_2,,,,500,quantity,44,,,

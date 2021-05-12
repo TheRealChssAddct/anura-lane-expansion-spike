@@ -1,0 +1,2 @@
+facility_name,product_name,period_name,inventory_constraint_value,inventory_constraint_type,turn_estimated_inventory,ending_inventory
+WHS_East,Shorts,Period_002,100.0,Cond Min,Exclude,Include

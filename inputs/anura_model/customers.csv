@@ -1,0 +1,5 @@
+customer_status,period_name,customer_unique_name,customer_city,customer_state,customer_country,customer_postal_code,customer_latitude,customer_longitude
+Include,,CUS_Seattle_WA,Seattle,WA,USA,,47.6062,-122.3321
+Include,,CUS_Dallas_TX,Dallas,TX,USA,,32.7767,-96.797
+Include,,CUS_Boston_MA,Boston,MA,USA,,42.3601,-71.0589
+Include,,CUS_Chicago_IL,Chicago,IL,USA,,41.8781,-87.6298

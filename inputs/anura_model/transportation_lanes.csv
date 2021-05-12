@@ -1,0 +1,11 @@
+lane_status,period_name,origin_name,destination_name,product_name,transport_mode,mode_selection_rule,variable_transport_cost,variable_transport_cost_basis,shipment_size,shipment_size_basis,transport_time,transport_time_basis,distance,distance_basis
+Include,,SUP_Vietnam,MFG,,Ocean,To Optimize,0.0006,Quantity-Mile,,,2.0,week,5000.0,
+Include,,SUP_Domestic,MFG,,Truck,To Optimize,0.001,Quantity-Mile,,,1.0,hour,10.0,
+Include,,WHS_East,WHS_West,,Truck,To Optimize,0.005,Quantity-Mile,,,46.0,hour,2552.0,
+Include,,WHS_West,WHS_East,,Truck,To Optimize,0.005,Quantity-Mile,,,46.0,hour,2552.0,
+Include,,WHS_West,CUS_Seattle_WA,,Truck,To Optimize,0.005,Quantity-Mile,,,13.0,hour,704.0,
+Include,,WHS_West,CUS_Dallas_TX,,Truck,To Optimize,0.005,Quantity-Mile,1000.0,lb,30.0,hour,1660.0,
+Include,,WHS_East,CUS_Boston_MA,,Truck,To Optimize,0.005,Quantity-Mile,,,3.0,hour,383.0,
+Include,,WHS_East,CUS_Chicago_IL,,Truck,To Optimize,10000.0,shipment,5000.0,lb,7.0,hour,657.0,
+Include,,MFG,WHS_East,,Truck,To Optimize,0.005,Quantity-Mile,,,47.0,hour,2000.0,
+Include,,MFG,WHS_West,,Truck,To Optimize,0.005,Quantity-Mile,,,9.0,hour,600.0,

@@ -1,0 +1,6 @@
+facility_status,period_name,facility_unique_name,facility_type,facility_city,facility_state,facility_country,facility_postal_code,facility_latitude,facility_longitude,facility_fixed_operating_cost
+Include,,SUP_Vietnam,Existing,Ho Chi Minh City,,Vietnam,,14.0583,108.2772,
+Include,,SUP_Domestic,Existing,Los Angelos,CA,United States,,34.0522,-118.2437,
+Include,,MFG,Existing,Los Angelos,CA,United States,,34.0522,-118.2437,
+Include,,WHS_West,Existing,Reno,NV,USA,,39.530895,-119.814972,10000.0
+Include,,WHS_East,Existing,Harrisburg,PA,USA,,40.26368,-76.890739,10000.0

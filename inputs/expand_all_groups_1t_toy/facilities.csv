@@ -1,0 +1,5 @@
+period_name,facility_unique_name,facility_type,facility_status,facility_city,facility_state,facility_country,facility_postal_code,facility_latitude,facility_longitude,facility_fixed_operating_cost
+,DC_1,Existing,Include,HAMTRAMCK,MI,United States,,42.39269943,-83.05211095,
+,DC_2,Existing,Include,DETROIT,MI,United States,,42.33124721,-83.04615913,
+,SUP_1,Existing,Include,PONTIAC,MI,US,,42.670272,-83.289036,
+,SUP_2,Existing,Include,FLINT,MI,US,,42.965926,-83.780835,

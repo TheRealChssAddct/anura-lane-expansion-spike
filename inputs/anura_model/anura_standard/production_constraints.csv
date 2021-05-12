@@ -1,0 +1,2 @@
+facility_name,product_name,period_name,bom_name,production_constraint_type,production_constraint_value
+MFG,Shorts,Period_005,,Fixed,5000.0

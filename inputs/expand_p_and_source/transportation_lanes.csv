@@ -1,0 +1,6 @@
+period_name,origin_name,destination_name,product_name,transport_mode,lane_status,mode_selection_rule,variable_transport_cost,variable_transport_cost_basis,transport_time,transport_time_basis,distance,distance_basis
+,,DC_HAMTRAMCK,,TL,Include,To Optimize,0.47,quantity-distance,,,,
+,,ODC_DETROIT,,ODC,Include,To Optimize,0.72,quantity-distance,,,,
+,,ODC_RAMOS,,ODC,Include,To Optimize,0.72,quantity-distance,,,,
+,,PROGRAM_CC,,CU,Include,To Optimize,1,quantity-distance,,,,
+,,PROGRAM_FG,,CU,Include,To Optimize,1,quantity-distance,,,,

@@ -1,0 +1,5 @@
+period_name,customer_unique_name,customer_status
+Period_001,CUS_Seattle_WA,Include
+Period_001,CUS_Dallas_TX,Include
+Period_001,CUS_Boston_MA,Include
+Period_001,CUS_Chicago_IL,Include
